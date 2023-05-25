@@ -102,3 +102,7 @@ Prompt engineering refers to the practice of designing and structuring the input
   - Answering queries
   - Offering recommendations
   - Gathering feedback
+
+
+
+Thanks for checking out my repo! If you find this project interesting, please consider giving it a star ⭐ to show your support. And, if you encounter any issues or have suggestions for improvements, feel free to open an issue. Your feedback is greatly appreciated! 😊
